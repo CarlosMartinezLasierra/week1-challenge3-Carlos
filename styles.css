@@ -4,6 +4,7 @@ body {
 
 nav {
   display: inline-block;
+  font-size: 20px;
 }
 
 nav li {
@@ -38,6 +39,7 @@ nav li {
   background-color: orange;
   height: 100cm;
   padding: 10px;
+  font-size: 30px;
 }
 #precio{
   width: 180px;
@@ -49,4 +51,10 @@ nav li {
 #boton{
   width: 80px;
   background-color: green;
+  color: white;
+  font-size: 15px;
+}
+img{
+  width: 30px;
+  height: 30px;
 }

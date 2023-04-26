@@ -33,28 +33,26 @@ nav li {
   display: flex;
   gap: 20px;
   float: left;
-
 }
-.shopping-interfaz{
+.shopping-interfaz {
   background-color: orange;
   height: 100cm;
   padding: 10px;
   font-size: 30px;
 }
-#precio{
-  width: 180px;
-
-}
-#nombre{
+#precio {
   width: 180px;
 }
-#boton{
+#nombre {
+  width: 180px;
+}
+#boton {
   width: 80px;
   background-color: green;
   color: white;
   font-size: 15px;
 }
-img{
+img {
   width: 30px;
   height: 30px;
 }

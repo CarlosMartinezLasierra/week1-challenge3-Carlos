@@ -1,0 +1,25 @@
+body {
+  max-width: 800px;
+}
+
+nav {
+  display: inline-block;
+  font-size: 20px;
+}
+
+nav li {
+  display: inline-block;
+}
+.navigation {
+  background-color: rgb(67, 133, 95);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.shopping-chart {
+  background-color: rgb(93, 150, 93);
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}

@@ -1,5 +1,5 @@
 body {
-  max-width: 800px;
+  max-width: 801px;
 }
 
 nav {
@@ -7,7 +7,7 @@ nav {
   font-size: 20px;
   color: white;
 }
-a{
+a {
   color: white;
   text-decoration: none;
 }
@@ -16,14 +16,14 @@ nav li {
   display: inline-block;
 }
 .navigation {
-  background-color: rgb(67, 133, 95);
+  background-color: rgb(39, 153, 137);
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 10px;
 }
 .shopping-chart {
-  background-color: rgb(93, 150, 93);
+  background-color: rgb(68, 160, 128);
   display: flex;
   justify-content: space-between;
   padding: 10px;
@@ -40,7 +40,7 @@ nav li {
   float: left;
 }
 .shopping-interfaz {
-  background-color: orange;
+  background-color: rgb(255, 200, 69);
   height: 100cm;
   padding: 10px;
   font-size: 30px;
